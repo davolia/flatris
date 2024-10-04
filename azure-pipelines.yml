@@ -18,5 +18,4 @@ steps:
 - script: |
     npm install
     npm run build
-    npm install --legacy-peer-deps
   displayName: 'npm install and build'
